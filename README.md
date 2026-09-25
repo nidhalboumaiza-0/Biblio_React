@@ -1,5 +1,7 @@
 # Biblio React
 
+> **Archived:** The maintained frontend and API now live together in [biblio-library-platform](https://github.com/nidhalboumaiza-0/biblio-library-platform), including Docker Compose, seeded demo accounts, and complete run instructions.
+
 TypeScript frontend for a library management platform. The interface covers books, authors, members, borrowing activity, authentication, and dashboard reporting against the Flask API.
 
 ## Features
